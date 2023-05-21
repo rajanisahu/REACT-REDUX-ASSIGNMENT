@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+button {
+  padding: 10px 14px;
+  margin: 4px;
+  background-color: gold;
+  border-radius: 6px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: skyblue;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  color: green;
+  text-shadow: 2px 2px 2px greenyellow;
+}
+h2 {
+  text-align: center;
+  color: red;
+  text-shadow: 2px 2px 2px pink;
+}
